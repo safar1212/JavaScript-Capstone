@@ -79,7 +79,7 @@ Run
 | 👤 Name | Github | Twitter | LinkedIn |
 |------|--------|---------|----------|
 |Waleed Amjad|[@caasperr](https://github.com/caasperr)|[@developerwaleed](https://twitter.com/developerwaleed)|[@Waleed Amjad](https://www.linkedin.com/in/waleed-amjad-51930014a/)|
-|Safar Ali|[@caasperr](https://github.com/safar1212)|[@Safar Ali](https://twitter.com/SafarAli999)|[@Safar Ali](https://www.linkedin.com/in/safar-ali999/)|
+|Safar Ali|[@Safar Ali](https://github.com/safar1212)|[@Safar Ali](https://twitter.com/SafarAli999)|[@Safar Ali](https://www.linkedin.com/in/safar-ali999/)|
 
 ## 🤝 Contributing
 
