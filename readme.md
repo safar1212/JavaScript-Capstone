@@ -15,7 +15,7 @@ ScreenShot 2                                      |
 ## Built With ✔️
 
 - HTML 😄
-- Css 🔥
+- CSS 🔥
 - JavaScript ES6 😋
 - WebPack 😉
 - AAA test pattern (jest).
@@ -69,9 +69,6 @@ Run
 ``` 
   `$ start local server
 ```
-
-### Deployment
-- [Visit Application Homepage](http://localhost:8080)
 
 
 ### Authors
