@@ -1,6 +1,7 @@
 # CHOPS AND HOPS
 
-![App Screenshot](./src/assets/mock.png)
+![2022-12-29_14-24-23](https://user-images.githubusercontent.com/78845635/209931223-bd653c48-5492-44c6-909e-b2f4fe2af235.jpg)
+
 
 ## Welcome! 👋
 
